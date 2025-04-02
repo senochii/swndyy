@@ -12,8 +12,7 @@
   <samp>
   </p>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=bs982rouoma1pwihrpwyk6ekt&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=bs982rouoma1pwihrpwyk6ekt&redirect=true)
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=bs982rouoma1pwihrpwyk6ekt&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 <p align="center"> 
   ᴠɪsɪᴛᴏʀ ᴄᴏᴜɴᴛ<br>
   <img src="https://profile-counter.glitch.me/swndyy/count.svg" />
