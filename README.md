@@ -31,5 +31,5 @@
 
 <p align="center">
   <sub>ʏᴏᴜ'ʀᴇ ᴠɪsɪᴛᴏʀ ɴᴏ.</sub><br>
-  <img src="https://profile-counter.glitch.me/swndyy/count.svg" alt="visitor count"/>
+  <img src="https://profile-counter.glitch.me/senochii/count.svg" alt="visitor count"/>
 </p>
