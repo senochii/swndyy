@@ -4,21 +4,21 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Playwrite+AU+SA&duration=6000&pause=3200&color=808080&center=true&width=435&lines=why+you+don't+realize+my+feelings;ahh%2C+i+am+trapped+in+my+own+imagination...;can+i+get+out+of%2C+this+dream" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Playwrite+AU+SA&duration=6000&pause=3200&color=808080&center=true&width=435&lines=Why+don't+you+notice+my+meows%3F;I+am+lost+in+a+dreamy+catnap...;Let+me+wake+from+this+fuzzy+fantasy" alt="Typing SVG" />
   </a>
 </p>
 
-<p align="center">⋆｡˚☁️⋆｡˚✩</p>
+<p align="center">root@neko:~# purrsennin</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Dreaming-blueviolet?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mood-Soft%20&%20Lost-pink?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Catnapping-blueviolet?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mood-Curious%20and%20Cozy-pink?style=for-the-badge" />
 </p>
 
-<hr style="border: none; border-top: 1px dotted #ccc; width: 60%; margin: auto;">
+<hr style="border: none; border-top: 1px dashed #ccc; width: 60%; margin: auto;">
 
 <p align="center">
-  <i><b>Now Playing</b> — 🎵</i>
+  <i><b>Now Playing</b> — 🎶</i>
 </p>
 
 <p align="center">
@@ -27,9 +27,23 @@
   </a>
 </p>
 
-<p align="center">⋆﹥━━━━━━━━━━━━﹤⋆</p>
+<p align="center">⋆⁺₊⋆ ☁︎ ⋆⁺₊⋆</p>
 
 <p align="center">
-  <sub>ʏᴏᴜ'ʀᴇ ᴠɪsɪᴛᴏʀ ɴᴏ.</sub><br>
-  <img src="https://profile-counter.glitch.me/senochii/count.svg" alt="visitor count"/>
+  <sub>ʏᴏᴜ'ʀᴇ ᴘᴀᴡ-sɪᴛɪᴠᴇʟʏ ᴠɪsɪᴛᴏʀ ɴᴏ.</sub><br>
+  <img src="https://profile-counter.glitch.me/purrsennin/count.svg" alt="visitor count"/>
+</p>
+
+<br>
+
+<p align="center">
+  <kbd>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=purrsennin&theme=tokyo-night" alt="activity graph" />
+  </kbd>
+</p>
+
+<hr>
+
+<p align="center">
+  <strong>Made with catlike curiosity by <a href="https://github.com/purrsennin">purrsennin</a></strong>
 </p>
